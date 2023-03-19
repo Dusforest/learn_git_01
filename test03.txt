@@ -1,1 +1,1 @@
-int num = 10086;
+int num = 0;
